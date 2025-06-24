@@ -1,0 +1,4 @@
+
+### 🔹 **Task 2: Find Prime Numbers between 1 to 100**
+
+> 🔎 Print only those numbers that are prime using **nested loop**

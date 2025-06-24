@@ -1,0 +1,7 @@
+### 🔹 **Task 3: Print Fibonacci Series up to N Terms**
+
+**Input:** `10`
+**Output:** `0 1 1 2 3 5 8 13 21 34`
+
+> 📌 Use `for` loop to generate it
+> Bonus: Try without array, just 2 variables!

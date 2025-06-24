@@ -1,0 +1,9 @@
+### 🔹 **Task 4: Count Vowels and Consonants in a String**
+
+**Input:** `"Hello World"`
+**Output:**
+
+* Vowels: 3
+* Consonants: 7
+
+> 🔄 Use `foreach` loop to loop through each character

@@ -1,0 +1,6 @@
+### 🔹 **Task 1: Reverse a String Without Using Built-in Method**
+
+**Input:** `"Shubham"`
+**Expected Output:** `"mahbuhS"`
+
+> 🔄 Use for or while loop only (no `.Reverse()` allowed)
